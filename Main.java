@@ -5,6 +5,7 @@ public class Main {
         Cats c1 = new Cats();
         c1.Miau();
 
-
+        Dogs d1 = new Dogs("Buldog");
+        d1.Gav();
     }
 }
