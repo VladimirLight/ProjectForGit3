@@ -7,5 +7,8 @@ public class Main {
 
         Dogs d1 = new Dogs("Buldog");
         d1.Gav();
+
+        Birds b1 = new Birds("Vorobei");
+        b1.Chiric();
     }
 }
